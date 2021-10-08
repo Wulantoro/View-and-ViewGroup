@@ -14,4 +14,12 @@
     Video playback: up to 13 hours\n
     Audio playback (via headset): up to 110 hours\n
     Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="my_name">Nugrohio</string>
+    <string name="seller">Penjual</string>
+    <string name="battery">Battery</string>
+    <string name="size">Size</string>
+    <string name="display">Display</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="dummy_value">$450</string>
+    <string name="stock">Stock</string>
 </resources>
